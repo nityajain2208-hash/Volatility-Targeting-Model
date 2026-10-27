@@ -84,7 +84,7 @@ Metric | Baseline Strategy | Volatility-Targeting Strategy |
 Sharpe Ratio | 0.74 | 0.89 |
 Maximum Drawdown | -31.17% | -13.10% |
 
-## Key Observations
+### Key Observations
 
 1. Improved risk-adjusted performance
 
